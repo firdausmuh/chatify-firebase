@@ -1,3 +1,7 @@
+# chatify-firebase
+
+learn firebase to make a chatify application
+
 # chatify
 
 A new Flutter project.
